@@ -1,5 +1,5 @@
 run_code_inside = true
-puts "Code before if...end"
+puts "Even!"
 if run_code_inside
   puts "code inside"
 end
